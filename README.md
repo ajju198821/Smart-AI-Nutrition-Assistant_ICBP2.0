@@ -139,4 +139,5 @@ Contributions are welcome! Please follow these steps:
 ---
 
 *Built with ❤️ by Abdul Aziz Md*
+
 *Last Updated: May 17, 2025*
