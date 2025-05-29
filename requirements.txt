@@ -1,0 +1,6 @@
+streamlit
+langchain-groq
+python-dotenv
+transformers
+pillow
+torch
