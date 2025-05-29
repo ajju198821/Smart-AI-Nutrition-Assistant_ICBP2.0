@@ -14,7 +14,7 @@ The **Smart AI Nutrition Assistant** is an innovative web application designed t
 ## Prerequisites
 
 - **Python**: Version 3.8 or higher
-- **Groq API Key**: Obtain from [xAI](https://x.ai/api)
+- **Groq API Key**
 - **Image Files**: Background images (`welcomepage.jpg`, `personal.avif`, `workout2.webp`) for UI styling
 - **Internet Connection**: Required for API calls to Groq and Hugging Face
 
