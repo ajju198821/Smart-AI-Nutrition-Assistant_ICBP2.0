@@ -111,7 +111,7 @@ if page == "🏠 Welcome":
 
 # Page 2: Nutrition Plan
 elif page == "🍴 Nutrition Plan":
-    set_background("1n1n1.avif") 
+    set_background("personal.avif") 
     st.title("🍽️ Personalized Nutrition Plan")
 
     with st.form("nutrition_form"):
